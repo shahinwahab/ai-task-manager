@@ -8,13 +8,9 @@
   <img src="https://img.shields.io/badge/Tests-418%20Passing-22C55E" alt="Tests">
 </p>
 
-  #### A voice-powered task management app with AI-driven natural language processing, built with Clean Architecture.
+#### A voice-powered task management app with AI-driven natural language processing, built with Clean Architecture.
 
-<p>
-  <a href="https://voxna.pages.dev">🌐 Visit</a> •
-  <a href="https://github.com/shahinwahab/voxna/releases/latest/download/voxna.apk">📥 APK</a> •
-  <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.exe">📥 Windows</a>
-</p>
+  #### <a href="https://voxna.pages.dev">🌐 Visit</a> • <a href="https://github.com/shahinwahab/voxna/releases/latest/download/voxna.apk">📥 APK</a> • <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.exe">📥 Windows</a>
 
 ---
 
