@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/Tests-418%20Passing-22C55E" alt="Tests">
 </p>
 
-<p>
-  <b>A voice-powered task management app with AI-driven natural language processing, built with Clean Architecture.</b>
-</p>
+  ### A voice-powered task management app with AI-driven natural language processing, built with Clean Architecture.
 
 <p>
   <a href="https://voxna.pages.dev">🌐 Visit</a> •
@@ -69,8 +67,7 @@ Clean Architecture with BLoC pattern:
 
 **Shahin Wahab** - Software Engineer
 
-<a href="https://shahinwahab.com">🌐 shahinwahab.com</a> •
-  <a href="https://linkedin.com/in/shahinwahab">💼 LinkedIn</a>
+#### <a href="https://shahinwahab.com">🌐 shahinwahab.com</a> • <a href="https://linkedin.com/in/shahinwahab">💼 LinkedIn</a>
 
 ---
 > **Repository created on:** 2025-12-16, 20:16 (UTC+3)
