@@ -1,4 +1,4 @@
-# Voice Task Manager
+# Voxna
 
 <p>
   <img src="https://img.shields.io/badge/6%20Platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-0891b2" alt="Platforms">
@@ -13,22 +13,20 @@
 </p>
 
 <p>
-  <a href="https://voice-task-manager.pages.dev">🌐 Live Demo</a> •
-  <a href="https://github.com/shahinwahab/voice-task-manager/releases/latest/download/voice-task-manager.apk">📥 Download APK</a>
+  <a href="https://voxna.pages.dev">🌐 Visit</a> •
+  <a href="https://github.com/shahinwahab/voxna/releases/latest/download/voxna.apk">📥 APK</a> •
+  <a href="https://github.com/shahinwahab/homehelp/releases/latest/download/homehelp.exe">📥 Windows</a>
 </p>
 
 ---
 
-## 📱 App Preview
+## App Preview
 
-<!-- CLAUDE: Recommend 3 best screenshots for thumbnail collage (portfolio showcase). -->
-<p align="center">
-  <a href="https://youtube.com/watch?v=demo">
-    <img src="docs/ui/voice-task-manager-thumbnail.webp" alt="Watch Demo" width="600">
-  </a>
+<p align="left">
+    <img src="docs/ui/voxna-thumbnail.webp" alt="Screenshot" width="600">
 </p>
 
-## ✨ Features
+## Features
 
 - Voice-powered task creation with Google Gemini AI
 - Smart parsing of title, due date, priority, and category from natural language
@@ -44,34 +42,35 @@
 - Biometric authentication
 - Home screen widget (Android)
 
-## 🏗️ Architecture
+## Architecture
 
 Clean Architecture with BLoC pattern:
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                    Presentation Layer                   │
-│           (Screens, Widgets, BLoC Controllers)          │
-├─────────────────────────────────────────────────────────┤
-│                      Domain Layer                       │
-│          (Entities, Use Cases, Repositories)            │
-├─────────────────────────────────────────────────────────┤
-│                       Data Layer                        │
-│       (Models, Data Sources, Repository Impls)          │
-└─────────────────────────────────────────────────────────┘
-                           │
-                           ▼
-┌─────────────────────────────────────────────────────────┐
-│                    External Services                    │
-│        Supabase Auth │ Supabase DB │ Gemini AI          │
-└─────────────────────────────────────────────────────────┘
++-------------------------------------------------------------+
+|                    Presentation Layer                       |
+|           (Screens, Widgets, BLoC Controllers)              |
++-------------------------------------------------------------+
+|                      Domain Layer                           |
+|          (Entities, Use Cases, Repositories)                |
++-------------------------------------------------------------+
+|                       Data Layer                            |
+|       (Models, Data Sources, Repository Impls)              |
++-------------------------------------------------------------+
+                           |
+                           v
++-------------------------------------------------------------+
+|                    External Services                        |
+|        Supabase Auth | Supabase DB | Gemini AI              |
++-------------------------------------------------------------+
 ```
 
-## 👨‍💻 Built by
+## Built by
 
 **Shahin Wahab** - Software Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shahinwahab.com-0891b2?style=for-the-badge)](https://shahinwahab.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahinwahab)
+<a href="https://shahinwahab.com">🌐 shahinwahab.com</a> •
+  <a href="https://linkedin.com/in/shahinwahab">💼 LinkedIn</a>
 
 ---
 > **Repository created on:** 2025-12-16, 20:16 (UTC+3)
